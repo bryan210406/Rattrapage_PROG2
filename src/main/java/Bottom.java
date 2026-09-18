@@ -5,5 +5,7 @@ public class Bottom extends Clothing{
         this.waistSize = waistSize;
     }
 
-    public int getWaistSize() { return waistSize; }
+    public int getWaistSize() { 
+        return waistSize; 
+        }
 }

@@ -6,5 +6,7 @@ public class Top extends Clothing {
         this.sleeveType = sleeveType;
     }
 
-    public SleeveType getSleeveType() { return sleeveType; }
+    public SleeveType getSleeveType() {
+        return sleeveType;
+        }
 }

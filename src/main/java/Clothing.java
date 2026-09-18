@@ -11,8 +11,16 @@ public abstract class Clothing {
         this.material = material;
     }
 
-    public String getName() { return name; }
-    public Size getSize() { return size; }
-    public double getUnitPrice() { return unitPrice; }
-    public Material getMaterial() { return material; }
+    public String getName() { 
+        return name; 
+    }
+    public Size getSize() { 
+        return size; 
+    }
+    public double getUnitPrice() {
+        return unitPrice; 
+    }
+    public Material getMaterial() { 
+        return material; 
+    }
 }
